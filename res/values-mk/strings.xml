@@ -878,7 +878,7 @@
     <string name="Plethora_of_Spins">Plethora Of Spins (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">SIGN OUT ALL DEVICES</string>
     <string name="Tournament_Forming">Tournament Forming</string>
-    <string name="TeamTourneyDescription">You and your teammate must register to play in the team tournament. You will both be charged the plasma when the tournament starts but you can unregister before it starts. Needs at least %d contestants to start.</string>
+    <string name="TeamTourneyDescription">Вы и ваш напарник должны зарегистрироваться для участия в командном турнире. С вас обоих будет списана плазма в начале турнира, но вы можете отменить регистрацию до его начала. Для старта необходимо как минимум %d участников.</string>
     <string name="Free_Agent">Free Agent</string>
     <string name="This_player_selected_a_different_teammate_">This player selected a different teammate.</string>
     <string name="muted_until">Muted until</string>
